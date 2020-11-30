@@ -1,0 +1,8 @@
+.image-caption {
+    /* background-color: lightgray;  */
+    background-image: url("../images/portfolio-2.jpg");
+    width: auto; 
+    height: fit-content; 
+    padding: 10px; 
+    color: whitesmoke;
+}
